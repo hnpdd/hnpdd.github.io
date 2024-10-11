@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "NuopiaoHe(何诺飘)"
+title: "Nuopiao He(何诺飘)"
 author_profile: true
 redirect_from: 
   - /about/
