@@ -24,12 +24,12 @@ author:
   avatar           : "1cunbaidi.png"
   name             : "Nuopiao He"
   pronouns         : # example: "she/her"  
-  bio              : "postgraduate"
+  bio              : "postgraduate of Wuhan Univercity of Science and Technology"
   location         : "Wuhan,China"
-  employer         : "Wuhan University of
+  employer         : #"Wuhan University of
                      Science and Technology"
   uri              : # URL
-  email            : "903834060@qq.com" 
+  email            : "wustnp@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
